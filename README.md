@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Murtaza-5253
 - 👀 I’m interested in Full Stack Development
 - 🌱 I graduated recently in  Computer science engineering 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me murtazamaimoon73@gmail.com
 
 <!---
